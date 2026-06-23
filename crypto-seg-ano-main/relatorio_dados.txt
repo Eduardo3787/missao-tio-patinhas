@@ -1,0 +1,21 @@
+=== RELATORIO DE DADOS - MISSAO TIO PATINHAS ===
+
+CRIPTOATIVOS (ArrayList)
+Id: 1 | Nome: Bitcoin | Ticker: BTC | Preco: R$350000,00 | Variacao: 0,00% | MarketCap: R$6800000000000,00
+Id: 2 | Nome: Ethereum | Ticker: ETH | Preco: R$18000,00 | Variacao: 0,00% | MarketCap: R$2100000000000,00
+Id: 3 | Nome: Solana | Ticker: SOL | Preco: R$800,00 | Variacao: 0,00% | MarketCap: R$340000000000,00
+
+INVESTIDORES (ArrayList)
+Id: 1 | Nome: FIAP | Email: FIAP@empresa.com | Documento: 111.222.333-44 | Perfil: Experienced | Limite: R$1000000,00
+Id: 2 | Nome: Hugo | Email: hugo@email.com | Documento: 555.666.777-88 | Perfil: Beginner | Limite: R$10000,00
+
+=== ATUALIZACAO A PARTIR DOS HASHMAPS ===
+
+CRIPTOATIVOS POR TICKER (HashMap)
+BTC -> Bitcoin | Preco: R$350000,00 | Volume: R$0,00
+SOL -> Solana | Preco: R$800,00 | Volume: R$0,00
+ETH -> Ethereum | Preco: R$18000,00 | Volume: R$0,00
+
+INVESTIDORES POR ID (HashMap)
+1 -> FIAP | Perfil: Experienced | Cadastro: 2026-06-21
+2 -> Hugo | Perfil: Beginner | Cadastro: 2026-06-21
